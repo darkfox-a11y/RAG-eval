@@ -1,0 +1,2 @@
+total_queries,success_rate,avg_sources_retrieved,latency_mean,latency_median,latency_p95,latency_p99,latency_min,latency_max,high_confidence_pct,medium_confidence_pct,low_confidence_pct,analytical_success_rate,analytical_latency,extraction_success_rate,extraction_latency,factual_success_rate,factual_latency
+50,100.0,3.0,2954.1793870925903,2968.222498893738,3578.409278392791,3849.2115855216975,2222.2907543182373,3913.43092918396,76.0,24.0,0.0,100.0,3339.8163080215454,100.0,2977.823281288147,100.0,2737.717032432556

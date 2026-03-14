@@ -1,0 +1,11 @@
+doc_id,filename,title,source,query,length
+1,pdfs/doc_01.txt,Google Terms of Service,https://policies.google.com/terms,terms,28550
+2,pdfs/doc_02.txt,Google Privacy Policy,https://policies.google.com/privacy,privacy,53952
+3,pdfs/doc_03.txt,Anthropic Consumer Terms,https://www.anthropic.com/legal/consumer-terms,terms,28922
+4,pdfs/doc_04.txt,Anthropic Commercial Terms,https://www.anthropic.com/legal/commercial-terms,commercial,24539
+5,pdfs/doc_05.txt,Anthropic Privacy Policy,https://www.anthropic.com/legal/privacy,privacy,33314
+6,pdfs/doc_06.txt,GitHub Terms of Service,https://docs.github.com/en/site-policy/github-terms/github-terms-of-service,terms,41179
+7,pdfs/doc_07.txt,GitHub General Privacy Statement,https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement,privacy,40708
+8,pdfs/doc_08.txt,Cloudflare Self-Serve Subscription Agreement,https://www.cloudflare.com/service-specific-terms-application-services/,subscription,17716
+9,pdfs/doc_09.txt,Slack Terms of Service,https://slack.com/terms-of-service,terms,1411
+10,pdfs/doc_10.txt,Mozilla Firefox Terms of Use,https://www.mozilla.org/en-US/about/legal/terms/firefox/,terms,5572

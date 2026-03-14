@@ -1,0 +1,302 @@
+[
+  {
+    "doc_id": 1,
+    "question": "What is the title or name of this document?",
+    "expected_answer": "Google Terms of Service",
+    "question_type": "factual"
+  },
+  {
+    "doc_id": 1,
+    "question": "What are the main parties involved in this case?",
+    "expected_answer": "Extract from document",
+    "question_type": "extraction"
+  },
+  {
+    "doc_id": 1,
+    "question": "What is the case number or reference number?",
+    "expected_answer": "Extract from document",
+    "question_type": "factual"
+  },
+  {
+    "doc_id": 1,
+    "question": "What is the main legal issue in this document?",
+    "expected_answer": "Extract from document",
+    "question_type": "analytical"
+  },
+  {
+    "doc_id": 1,
+    "question": "What orders or decisions were made in this case?",
+    "expected_answer": "Extract from document",
+    "question_type": "extraction"
+  },
+  {
+    "doc_id": 2,
+    "question": "What is the title or name of this document?",
+    "expected_answer": "Google Privacy Policy",
+    "question_type": "factual"
+  },
+  {
+    "doc_id": 2,
+    "question": "What are the main parties involved in this case?",
+    "expected_answer": "Extract from document",
+    "question_type": "extraction"
+  },
+  {
+    "doc_id": 2,
+    "question": "What is the case number or reference number?",
+    "expected_answer": "Extract from document",
+    "question_type": "factual"
+  },
+  {
+    "doc_id": 2,
+    "question": "What is the main legal issue in this document?",
+    "expected_answer": "Extract from document",
+    "question_type": "analytical"
+  },
+  {
+    "doc_id": 2,
+    "question": "What orders or decisions were made in this case?",
+    "expected_answer": "Extract from document",
+    "question_type": "extraction"
+  },
+  {
+    "doc_id": 3,
+    "question": "What is the title or name of this document?",
+    "expected_answer": "Anthropic Consumer Terms",
+    "question_type": "factual"
+  },
+  {
+    "doc_id": 3,
+    "question": "What are the main parties involved in this case?",
+    "expected_answer": "Extract from document",
+    "question_type": "extraction"
+  },
+  {
+    "doc_id": 3,
+    "question": "What is the case number or reference number?",
+    "expected_answer": "Extract from document",
+    "question_type": "factual"
+  },
+  {
+    "doc_id": 3,
+    "question": "What is the main legal issue in this document?",
+    "expected_answer": "Extract from document",
+    "question_type": "analytical"
+  },
+  {
+    "doc_id": 3,
+    "question": "What orders or decisions were made in this case?",
+    "expected_answer": "Extract from document",
+    "question_type": "extraction"
+  },
+  {
+    "doc_id": 4,
+    "question": "What is the title or name of this document?",
+    "expected_answer": "Anthropic Commercial Terms",
+    "question_type": "factual"
+  },
+  {
+    "doc_id": 4,
+    "question": "What are the main parties involved in this case?",
+    "expected_answer": "Extract from document",
+    "question_type": "extraction"
+  },
+  {
+    "doc_id": 4,
+    "question": "What is the case number or reference number?",
+    "expected_answer": "Extract from document",
+    "question_type": "factual"
+  },
+  {
+    "doc_id": 4,
+    "question": "What is the main legal issue in this document?",
+    "expected_answer": "Extract from document",
+    "question_type": "analytical"
+  },
+  {
+    "doc_id": 4,
+    "question": "What orders or decisions were made in this case?",
+    "expected_answer": "Extract from document",
+    "question_type": "extraction"
+  },
+  {
+    "doc_id": 5,
+    "question": "What is the title or name of this document?",
+    "expected_answer": "Anthropic Privacy Policy",
+    "question_type": "factual"
+  },
+  {
+    "doc_id": 5,
+    "question": "What are the main parties involved in this case?",
+    "expected_answer": "Extract from document",
+    "question_type": "extraction"
+  },
+  {
+    "doc_id": 5,
+    "question": "What is the case number or reference number?",
+    "expected_answer": "Extract from document",
+    "question_type": "factual"
+  },
+  {
+    "doc_id": 5,
+    "question": "What is the main legal issue in this document?",
+    "expected_answer": "Extract from document",
+    "question_type": "analytical"
+  },
+  {
+    "doc_id": 5,
+    "question": "What orders or decisions were made in this case?",
+    "expected_answer": "Extract from document",
+    "question_type": "extraction"
+  },
+  {
+    "doc_id": 6,
+    "question": "What is the title or name of this document?",
+    "expected_answer": "GitHub Terms of Service",
+    "question_type": "factual"
+  },
+  {
+    "doc_id": 6,
+    "question": "What are the main parties involved in this case?",
+    "expected_answer": "Extract from document",
+    "question_type": "extraction"
+  },
+  {
+    "doc_id": 6,
+    "question": "What is the case number or reference number?",
+    "expected_answer": "Extract from document",
+    "question_type": "factual"
+  },
+  {
+    "doc_id": 6,
+    "question": "What is the main legal issue in this document?",
+    "expected_answer": "Extract from document",
+    "question_type": "analytical"
+  },
+  {
+    "doc_id": 6,
+    "question": "What orders or decisions were made in this case?",
+    "expected_answer": "Extract from document",
+    "question_type": "extraction"
+  },
+  {
+    "doc_id": 7,
+    "question": "What is the title or name of this document?",
+    "expected_answer": "GitHub General Privacy Statement",
+    "question_type": "factual"
+  },
+  {
+    "doc_id": 7,
+    "question": "What are the main parties involved in this case?",
+    "expected_answer": "Extract from document",
+    "question_type": "extraction"
+  },
+  {
+    "doc_id": 7,
+    "question": "What is the case number or reference number?",
+    "expected_answer": "Extract from document",
+    "question_type": "factual"
+  },
+  {
+    "doc_id": 7,
+    "question": "What is the main legal issue in this document?",
+    "expected_answer": "Extract from document",
+    "question_type": "analytical"
+  },
+  {
+    "doc_id": 7,
+    "question": "What orders or decisions were made in this case?",
+    "expected_answer": "Extract from document",
+    "question_type": "extraction"
+  },
+  {
+    "doc_id": 8,
+    "question": "What is the title or name of this document?",
+    "expected_answer": "Cloudflare Self-Serve Subscription Agreement",
+    "question_type": "factual"
+  },
+  {
+    "doc_id": 8,
+    "question": "What are the main parties involved in this case?",
+    "expected_answer": "Extract from document",
+    "question_type": "extraction"
+  },
+  {
+    "doc_id": 8,
+    "question": "What is the case number or reference number?",
+    "expected_answer": "Extract from document",
+    "question_type": "factual"
+  },
+  {
+    "doc_id": 8,
+    "question": "What is the main legal issue in this document?",
+    "expected_answer": "Extract from document",
+    "question_type": "analytical"
+  },
+  {
+    "doc_id": 8,
+    "question": "What orders or decisions were made in this case?",
+    "expected_answer": "Extract from document",
+    "question_type": "extraction"
+  },
+  {
+    "doc_id": 9,
+    "question": "What is the title or name of this document?",
+    "expected_answer": "Slack Terms of Service",
+    "question_type": "factual"
+  },
+  {
+    "doc_id": 9,
+    "question": "What are the main parties involved in this case?",
+    "expected_answer": "Extract from document",
+    "question_type": "extraction"
+  },
+  {
+    "doc_id": 9,
+    "question": "What is the case number or reference number?",
+    "expected_answer": "Extract from document",
+    "question_type": "factual"
+  },
+  {
+    "doc_id": 9,
+    "question": "What is the main legal issue in this document?",
+    "expected_answer": "Extract from document",
+    "question_type": "analytical"
+  },
+  {
+    "doc_id": 9,
+    "question": "What orders or decisions were made in this case?",
+    "expected_answer": "Extract from document",
+    "question_type": "extraction"
+  },
+  {
+    "doc_id": 10,
+    "question": "What is the title or name of this document?",
+    "expected_answer": "Mozilla Firefox Terms of Use",
+    "question_type": "factual"
+  },
+  {
+    "doc_id": 10,
+    "question": "What are the main parties involved in this case?",
+    "expected_answer": "Extract from document",
+    "question_type": "extraction"
+  },
+  {
+    "doc_id": 10,
+    "question": "What is the case number or reference number?",
+    "expected_answer": "Extract from document",
+    "question_type": "factual"
+  },
+  {
+    "doc_id": 10,
+    "question": "What is the main legal issue in this document?",
+    "expected_answer": "Extract from document",
+    "question_type": "analytical"
+  },
+  {
+    "doc_id": 10,
+    "question": "What orders or decisions were made in this case?",
+    "expected_answer": "Extract from document",
+    "question_type": "extraction"
+  }
+]

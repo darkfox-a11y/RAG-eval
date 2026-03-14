@@ -1,0 +1,51 @@
+doc_id,question,expected_answer,question_type
+1,What is the title or name of this document?,Google Terms of Service,factual
+1,What are the main parties involved in this case?,Extract from document,extraction
+1,What is the case number or reference number?,Extract from document,factual
+1,What is the main legal issue in this document?,Extract from document,analytical
+1,What orders or decisions were made in this case?,Extract from document,extraction
+2,What is the title or name of this document?,Google Privacy Policy,factual
+2,What are the main parties involved in this case?,Extract from document,extraction
+2,What is the case number or reference number?,Extract from document,factual
+2,What is the main legal issue in this document?,Extract from document,analytical
+2,What orders or decisions were made in this case?,Extract from document,extraction
+3,What is the title or name of this document?,Anthropic Consumer Terms,factual
+3,What are the main parties involved in this case?,Extract from document,extraction
+3,What is the case number or reference number?,Extract from document,factual
+3,What is the main legal issue in this document?,Extract from document,analytical
+3,What orders or decisions were made in this case?,Extract from document,extraction
+4,What is the title or name of this document?,Anthropic Commercial Terms,factual
+4,What are the main parties involved in this case?,Extract from document,extraction
+4,What is the case number or reference number?,Extract from document,factual
+4,What is the main legal issue in this document?,Extract from document,analytical
+4,What orders or decisions were made in this case?,Extract from document,extraction
+5,What is the title or name of this document?,Anthropic Privacy Policy,factual
+5,What are the main parties involved in this case?,Extract from document,extraction
+5,What is the case number or reference number?,Extract from document,factual
+5,What is the main legal issue in this document?,Extract from document,analytical
+5,What orders or decisions were made in this case?,Extract from document,extraction
+6,What is the title or name of this document?,GitHub Terms of Service,factual
+6,What are the main parties involved in this case?,Extract from document,extraction
+6,What is the case number or reference number?,Extract from document,factual
+6,What is the main legal issue in this document?,Extract from document,analytical
+6,What orders or decisions were made in this case?,Extract from document,extraction
+7,What is the title or name of this document?,GitHub General Privacy Statement,factual
+7,What are the main parties involved in this case?,Extract from document,extraction
+7,What is the case number or reference number?,Extract from document,factual
+7,What is the main legal issue in this document?,Extract from document,analytical
+7,What orders or decisions were made in this case?,Extract from document,extraction
+8,What is the title or name of this document?,Cloudflare Self-Serve Subscription Agreement,factual
+8,What are the main parties involved in this case?,Extract from document,extraction
+8,What is the case number or reference number?,Extract from document,factual
+8,What is the main legal issue in this document?,Extract from document,analytical
+8,What orders or decisions were made in this case?,Extract from document,extraction
+9,What is the title or name of this document?,Slack Terms of Service,factual
+9,What are the main parties involved in this case?,Extract from document,extraction
+9,What is the case number or reference number?,Extract from document,factual
+9,What is the main legal issue in this document?,Extract from document,analytical
+9,What orders or decisions were made in this case?,Extract from document,extraction
+10,What is the title or name of this document?,Mozilla Firefox Terms of Use,factual
+10,What are the main parties involved in this case?,Extract from document,extraction
+10,What is the case number or reference number?,Extract from document,factual
+10,What is the main legal issue in this document?,Extract from document,analytical
+10,What orders or decisions were made in this case?,Extract from document,extraction
